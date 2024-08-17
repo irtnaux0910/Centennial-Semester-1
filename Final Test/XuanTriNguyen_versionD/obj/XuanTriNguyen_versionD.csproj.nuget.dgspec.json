@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Centennial\\Semester 1\\COMP-100 Programming I\\Final Revision\\XuanTriNguyen_versionD\\XuanTriNguyen_versionD.csproj": {}
+  },
+  "projects": {
+    "D:\\Centennial\\Semester 1\\COMP-100 Programming I\\Final Revision\\XuanTriNguyen_versionD\\XuanTriNguyen_versionD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Centennial\\Semester 1\\COMP-100 Programming I\\Final Revision\\XuanTriNguyen_versionD\\XuanTriNguyen_versionD.csproj",
+        "projectName": "XuanTriNguyen_versionD",
+        "projectPath": "D:\\Centennial\\Semester 1\\COMP-100 Programming I\\Final Revision\\XuanTriNguyen_versionD\\XuanTriNguyen_versionD.csproj",
+        "packagesPath": "C:\\Users\\COHOTECH.VN\\.nuget\\packages\\",
+        "outputPath": "D:\\Centennial\\Semester 1\\COMP-100 Programming I\\Final Revision\\XuanTriNguyen_versionD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\COHOTECH.VN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

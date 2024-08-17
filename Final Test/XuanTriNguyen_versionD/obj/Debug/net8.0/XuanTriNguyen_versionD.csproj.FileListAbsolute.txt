@@ -1,0 +1,14 @@
+D:\Centennial\Semester 1\COMP-100 Programming I\Final Revision\XuanTriNguyen_versionD\bin\Debug\net8.0\XuanTriNguyen_versionD.exe
+D:\Centennial\Semester 1\COMP-100 Programming I\Final Revision\XuanTriNguyen_versionD\bin\Debug\net8.0\XuanTriNguyen_versionD.deps.json
+D:\Centennial\Semester 1\COMP-100 Programming I\Final Revision\XuanTriNguyen_versionD\bin\Debug\net8.0\XuanTriNguyen_versionD.runtimeconfig.json
+D:\Centennial\Semester 1\COMP-100 Programming I\Final Revision\XuanTriNguyen_versionD\bin\Debug\net8.0\XuanTriNguyen_versionD.dll
+D:\Centennial\Semester 1\COMP-100 Programming I\Final Revision\XuanTriNguyen_versionD\bin\Debug\net8.0\XuanTriNguyen_versionD.pdb
+D:\Centennial\Semester 1\COMP-100 Programming I\Final Revision\XuanTriNguyen_versionD\obj\Debug\net8.0\XuanTriNguyen_versionD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Centennial\Semester 1\COMP-100 Programming I\Final Revision\XuanTriNguyen_versionD\obj\Debug\net8.0\XuanTriNguyen_versionD.AssemblyInfoInputs.cache
+D:\Centennial\Semester 1\COMP-100 Programming I\Final Revision\XuanTriNguyen_versionD\obj\Debug\net8.0\XuanTriNguyen_versionD.AssemblyInfo.cs
+D:\Centennial\Semester 1\COMP-100 Programming I\Final Revision\XuanTriNguyen_versionD\obj\Debug\net8.0\XuanTriNguyen_versionD.csproj.CoreCompileInputs.cache
+D:\Centennial\Semester 1\COMP-100 Programming I\Final Revision\XuanTriNguyen_versionD\obj\Debug\net8.0\XuanTriNguyen_versionD.dll
+D:\Centennial\Semester 1\COMP-100 Programming I\Final Revision\XuanTriNguyen_versionD\obj\Debug\net8.0\refint\XuanTriNguyen_versionD.dll
+D:\Centennial\Semester 1\COMP-100 Programming I\Final Revision\XuanTriNguyen_versionD\obj\Debug\net8.0\XuanTriNguyen_versionD.pdb
+D:\Centennial\Semester 1\COMP-100 Programming I\Final Revision\XuanTriNguyen_versionD\obj\Debug\net8.0\XuanTriNguyen_versionD.genruntimeconfig.cache
+D:\Centennial\Semester 1\COMP-100 Programming I\Final Revision\XuanTriNguyen_versionD\obj\Debug\net8.0\ref\XuanTriNguyen_versionD.dll
