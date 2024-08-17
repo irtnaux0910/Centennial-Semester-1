@@ -1,0 +1,35 @@
+img { 
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 60px;
+  height:200px;
+}
+div {
+	 width:980px; 
+	 margin-left:60px; 
+	 margin-right:60px;
+	 font-weight:bold;
+ }
+ body {  
+	background-color: #7fe36d;
+	font-family: Arial, Helvetica, sans-serif;  
+ }
+.box {
+	border-spacing: 15px;
+	font-weight:bold;
+	font-size: 11px;
+}
+.boxAlign {
+	
+	border: 1px solid black;
+	width:120px;
+	height:120px;
+	text-align: center;
+	vertical-align: bottom;
+	background-color: white;
+}
+input {
+    margin:0;
+	padding:0;
+}
