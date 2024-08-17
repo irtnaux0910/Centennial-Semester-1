@@ -1,0 +1,263 @@
+﻿using System;
+/*
+ ********************************************************************************
+ * Programming I -  Test 3 (Version D)
+ *      Name:
+ *      Date:
+ * Student #:
+ *  Solution: VersionD.exe
+ * Test 3 - 25% of final grade
+ * 
+ ******************************************************************************** 
+ */
+
+namespace VersionD
+{
+    class VerD
+    {
+        static void Main(string[] args)
+        {
+
+        }
+
+        #region Question 1 - 11 marks
+        /* 
+         * Write a method that does not take any argument nor does it
+         * return a value. The method only displays the following text.
+         * 
+         * YOU MUST INSERT YOUR NAME IN THE TOP LINE OF THE MENU 
+         * 
+         * |==================Programming I=====================|
+         * |           3. Working with array of integer         |
+         * |           4. Volume Conversion                     |
+         * |           5. Simple pendulum                       |
+         * |           6. Calculate Ontario Tax                 |
+         * |                                                    | 
+         * |           X. To exit the program                   |
+         * |====================================================|
+         * Press the letter corresponding to your choice-> ");
+         * 
+         */
+
+
+        #endregion
+
+        #region Question 2 - 20 marks
+        /* 
+         * In your Main() method, using a suitable looping structure, write the 
+         * code to call this method repeatedly. 
+         * Using a suitable branching structure, write the code to implement the 
+         * following required functionality for all valid responses.
+         * Valid responses includes both upper and lower case of the input. The 
+         * following must be implemented:
+         * 3 will call the DemoQuestion3() method
+         * 4 will call the DemoQuestion4() method
+         * 5 will call the DemoQuestion5() method
+         * 6 will call the DemoQuestion6() method
+         * X will terminate the program
+         * Any other key will produce an error message
+         * 
+         * YOU DON'T HAVE TO CREATE A NEW METHOD FOR THIS QUESTION
+         */
+        #endregion
+
+        #region Question 3 - 36 marks
+        /* Question 3c (10 marks)
+         * 
+         * Write a method with the following specification
+         * name     : DisplayMultiplesOfThree
+         * arguments: array of int
+         * returns  : nothing
+         * display  : only the multiples of three items in the argument
+         * task     : use a suitable looping structure to send each
+         *            multiple to the screen.
+         *            
+         * YOU MUST USE A FOREACH loop
+         */
+
+
+        /* Question 3b (8 marks)
+         * 
+         * Write a method with the following specification
+         * name     : DisplayIntArray
+         * arguments: array of int
+         * returns  : nothing
+         * display  : all the items in the array seperated by a single space
+         * task     : use a suitable looping structure to send each
+         *            item to the screen.
+         *  
+         * hint     : use the format specifier d2 to obtain the leading zero
+         *            
+         * YOU MUST USE A FOR loop
+         */
+
+
+        /* Question 3a (11 marks)
+         * 
+         * Write a method with the following specification
+         * name     : GenerateIntArray
+         * arguments: int representing the number of items to generate
+         *            i.e. the size of the resulting array
+         * returns  : int array
+         * display  : nothing
+         * task     : 1) create the random object to generate random numbers
+         *            2) declare and allocate sufficient storage for the array
+         *            3) using a suitable looping structure get a random value 
+         *               and assign it the element of the array
+         *               use random.Next(100) to obtain a random int
+         *            4) return the array
+         */
+
+
+        /* The driver for question 3 (7 marks)
+         * 
+         * 1) Call GenerateIntArray with argument 30 and assign the 
+         *    returned value to a suitable variable
+         * 2) Use DisplayIntArray to print the above stored value
+         * 3) Print an empty line
+         * 4) Use DisplayMultiplesOfThree to print only the even items in the 
+         *    above stored value
+         */
+        static void DemoQuestion3()
+        {
+            Console.WriteLine("\n\n**********Begin Question 3 **********");
+            //code for invoking question 3 goes here
+
+
+            Console.WriteLine("\n**********End Question 3 **********\n\n");
+        }
+        #endregion
+
+        #region Question 4 - 19 marks
+        /* Question 4 (12 marks)
+         * 
+         * Write a method with the following specification
+         * name     : VolumeConversion
+         * arguments: an double representing the liter value to convert  
+         *            an double to store the gallon
+         *            an double to store the ounce
+         *            an double to store the milliliters
+         * returns  : nothing
+         * display  : nothing
+         * task     : converts the first argument (liter amount) into 
+         *            mils, gallons and ounces
+         *           
+         * hint     : the last three parameters are decorated so that the 
+         *            method receives the actual variable so it is able to
+         *            modify the actual parameters it receives.
+         *                           
+         *          : 1 liter = 0.2642 gallons
+         *            1 liter = 33.8135 ounce
+         *            1 liter = 1000 mils                    
+         */
+
+
+        /* The driver for question 4 (7 marks) 
+         * 
+         * 1) Declare a double variable (this will be your first argument) 
+         *    and initialized it to 0.5
+         * 2) Declare three other variables to store the mils, gallons and ounces
+         * 3) Call the VolumeConversion with the appropriate arguments. Print all of the 
+         *    arguments after the method call 
+         * 4) Now change the first argument to 1.0 and repeat step 3.  
+         */
+        static void DemoQuestion4()
+        {
+            Console.WriteLine("\n\n**********Begin Question 4 **********");
+            //code for invoking question 4 goes here
+
+
+            Console.WriteLine("\n**********End Question 4 **********\n\n");
+        }
+        #endregion
+
+        #region Question 5 - 16 marks
+        /* Question 5 (10 marks)
+         * 
+         * The periodic time of a simple pendulum is dependent on the root of 
+         * the length of the pendulum. See the attached word document for the 
+         * formulae.
+         * 
+         * Write a method that calculates and returns the periodic time of a simple pendulum. 
+         * The specifications is as follows:
+         * 
+         * Name: 
+         *  SimplePendulum
+         *  
+         * Argument: 
+         *  a double representing the length of the pendulum
+         *  
+         * Returns:
+         *  a double indicating the periodic time
+         *  
+         * Action:
+         *  Calculates and return the periodic time. The 
+         *  equation will be writen on the whiteboard
+         *  
+         * Displays: 
+         *  nothing.
+         * 
+         */
+
+
+        /* The driver for question 5 (6 mark)
+         * 
+         * In the DemoQuestion5() method, write the code to call this method two
+         * times with arguments 0.5 and 0.9 respectively and display the 
+         * return value after each call
+         * 
+         */
+        static void DemoQuestion5()
+        {
+            Console.WriteLine("\n\n**********Begin Question 5 **********");
+            //code for invoking question 5 goes here
+
+
+            Console.WriteLine("\n**********End Question 5 **********\n\n");
+        }
+        #endregion
+   
+        #region Question 6 - 22 marks
+        /* Question 6 (14 marks)
+         * 
+         * All Canadian are required to pay federal and provincial taxes. This question deals 
+         * with provincia; tax calculation. The question specification are as follows:
+         * 
+         * Name: 
+         *  CalculateOntarioTax
+         *  
+         * Argument: 
+         *  a double representing the annual taxable income
+         *  
+         * Returns:
+         *  a double indicating the federal tax owned to the government 
+         *    
+         * Action:
+         * Calculates and return the tax based on the following abridge table:
+         *  5.05% on the first $41,536 of taxable income, +
+         *  9.15% on the next $41,539 (on the portion of taxable income over $41,536 up to $83,075), +
+         *  13.16 % on the amount over $83,075
+         *  
+         * Displays: nothing.
+         *         
+         */
+
+
+        /* The driver for question 6 (8 marks)
+         * 
+         * 1) Declare an int variable and initialized it to 30,000
+         * 2) Invoke the CalculateOntarioTax method with this variable and print the returned value
+         * 3) Change the variable to 60,000 and repeat step 2
+         * 4) Change the variable to 90,000 and repeat step 2
+         */
+        static void DemoQuestion6()
+        {
+            Console.WriteLine("\n\n**********Begin Question 6 **********");
+            //code for invoking question 6 goes here
+
+
+            Console.WriteLine("\n**********End Question 6 **********\n\n");
+        }
+        #endregion
+    }
+}
